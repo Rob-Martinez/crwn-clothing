@@ -4,7 +4,6 @@ import Authentication from "./routes/authentication/authentication.component"
 import { Routes, Route } from 'react-router-dom';
 
 
-// new comment for test, everything is currently working at this time. 
 const Shop = () => {
   return (
     <div>
