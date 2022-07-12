@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rob-Martinez/crwn-clothing/static/css/main.a601c220.css",
+    "main.js": "/Rob-Martinez/crwn-clothing/static/js/main.625f3060.js",
+    "static/js/787.d7ece244.chunk.js": "/Rob-Martinez/crwn-clothing/static/js/787.d7ece244.chunk.js",
+    "static/media/crown.svg": "/Rob-Martinez/crwn-clothing/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Rob-Martinez/crwn-clothing/index.html",
+    "main.a601c220.css.map": "/Rob-Martinez/crwn-clothing/static/css/main.a601c220.css.map",
+    "main.625f3060.js.map": "/Rob-Martinez/crwn-clothing/static/js/main.625f3060.js.map",
+    "787.d7ece244.chunk.js.map": "/Rob-Martinez/crwn-clothing/static/js/787.d7ece244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a601c220.css",
+    "static/js/main.625f3060.js"
+  ]
+}
